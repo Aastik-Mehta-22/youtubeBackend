@@ -1,0 +1,16 @@
+{
+  "name": "ytbackend",
+  "version": "1.0.0",
+  "description": "the backend of the youtube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend.",
+    "chai"
+  ],
+  "author": "Aastik Mehta",
+  "license": "ISC"
+}
